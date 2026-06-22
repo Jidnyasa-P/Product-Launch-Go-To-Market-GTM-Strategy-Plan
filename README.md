@@ -1,11 +1,19 @@
-<div align="center">
+# Product Launch Go-To-Market (GTM) Strategy Plan
+[![Role: Business Analyst](https://img.shields.io/badge/Role-Business_Analyst-blue.svg)](https://shield.io)
+[![Topic: Product launch](https://img.shields.io/badge/Topic-Launch_Planning-green.svg)](https://shield.io)
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+## Executive Summary
+This portfolio project implements a fully structured Go-To-Market (GTM) launch strategy framework. Using business analysis techniques, competitor benchmarking, and pricing simulators, I modeled customer acquisition dynamics to solve launch-risk objectives.
 
-  <h1>Built with AI Studio</h2>
+### Project Deliverables
+* **Interactive Dashboard:** Built to aggregate critical KPIs (Revenue, CAC, Conversion Rate)
+* **Pricing Calculator:** Built to simulate contributor margins and determine break-even limits
+* **Checklist Gantt:** Managed week-by-week timeline parameters from Pre-Launch to Post-Launch Review
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+### Core Metrics Achieved
+1. **Weighted Demand Score:** 84% average consumer desirability rating
+2. **Dynamic Conversion Target:** 3.4% average across target cohorts
+3. **Allowable CAC Constraint:** Under $35 relative to initial purchase budgets 
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+---
+*Created on GTM Portfolio Accelerator Hub.*
